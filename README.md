@@ -1,6 +1,5 @@
 ## Whatsapp clone
-
-Deployed version on firebase [tinder clone](https://whatsapp-clone-ebe5e.web.app/)
+Deployed version on firebase [whatsapp clone](https://whatsapp-clone-ebe5e.web.app/)
 
 ## Technologies
 - tailwindcss
@@ -16,7 +15,7 @@ Deployed version on firebase [tinder clone](https://whatsapp-clone-ebe5e.web.app
 
 In the project directory, you can run:
 
-### `npm start`
+### `npm run start`
 
 Runs the app in the development mode.<br />
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
