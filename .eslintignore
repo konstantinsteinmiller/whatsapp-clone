@@ -1,0 +1,7 @@
+node_modules
+static
+coverage
+modules/sentry/plugin.template.js
+modules/google-tagmanager/plugin.template.js
+modules/event-tracking/plugin.template.js
+components/website

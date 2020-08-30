@@ -1,0 +1,12 @@
+.sidebar {
+  flex: 0.35;
+}
+
+.sidebar__header-right  {
+  min-width: 10vw;
+}
+
+.sidebar__header-right > .MuiSvgIcon-root {
+  margin-right: 2vw;
+  font-size: 24px !important;
+}

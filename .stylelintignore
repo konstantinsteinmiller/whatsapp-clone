@@ -1,0 +1,6 @@
+layouts/website.vue
+components/website
+pages/_lang
+pages/blog
+assets/old
+coverage
